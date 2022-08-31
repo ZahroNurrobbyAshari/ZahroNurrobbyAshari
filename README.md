@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZahroNurrobbyAshari](https://github.com/ZahroNurrobbyAshari)
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **zahronurrobbya@gmail.com or @robbyash**
 
